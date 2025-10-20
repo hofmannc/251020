@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Wie lautet der Titel des Softwareprojekts?",
+    "set": "",
+    "values": "Verwendung der Partnereingabe"
+  },
+  {
+    "question": "In welche Anwendungsklasse wird die Software eingeordnet?",
+    "set": "",
+    "values": "Anwendungsklasse 2: Die Software soll eine langfristige Entwicklung und Wartbarkeit gew\u00e4hrleisten. Sie ist die Grundlage f\u00fcr einen \u00dcbergang zum Produktstatus."
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Anja Bartel\"",
+    "values": "Mater"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Cosser\"",
+    "values": "Luger"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"David Esser\"",
+    "values": "Mauermann"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Hauke John\"",
+    "values": "Fromm"
+  },
+  {
+    "question": "Familienname(n)",
+    "set": "Set \"Norbert Ober\"",
+    "values": "O."
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Cosser\"",
+    "values": "Marcel"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"David Esser\"",
+    "values": "Heiko"
+  },
+  {
+    "question": "Rufname(n)",
+    "set": "Set \"Norbert Ober\"",
+    "values": "N."
+  },
+  {
+    "question": "ORCID ID",
+    "set": "Set \"David Esser\"",
+    "values": "1234-5678-9101-1234"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"David Esser\" Set #1",
+    "values": "Developer"
+  },
+  {
+    "question": "Rolle",
+    "set": "Set \"Klaus Mager\" Set #1",
+    "values": "Developer"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"David Esser\" Set #1",
+    "values": "Max Planck Society [01hhn8329]"
+  },
+  {
+    "question": "ROR-Suche",
+    "set": "Set \"Klaus Mager\" Set #1",
+    "values": "H\u00f4pital Max Fourestier [017t1dh18]"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"David Esser\" Set #1",
+    "values": "Max Planck Society"
+  },
+  {
+    "question": "Affiliation",
+    "set": "Set \"Klaus Mager\" Set #1",
+    "values": "H\u00f4pital Max Fourestier"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"David Esser\" Set #1",
+    "values": "https://ror.org/01hhn8329"
+  },
+  {
+    "question": "ROR ID",
+    "set": "Set \"Klaus Mager\" Set #1",
+    "values": "https://ror.org/017t1dh18"
+  }
+]
